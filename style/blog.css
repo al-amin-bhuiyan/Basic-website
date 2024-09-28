@@ -1,6 +1,19 @@
-.para{
+.First_div{
     text-align: center;
     background-color:magenta;
+    margin: 20px 0px 0px 10px;
+
+}
+.second_div{
+    background-color: brown;
+    text-align: center;
+    /* padding: 20px; */
+    margin: 20px 0px 0px 10px;
+
+}
+.Third_div{
+    background-color: aqua;
+    text-align: center;
     padding: 20px;
-    
+
 }
